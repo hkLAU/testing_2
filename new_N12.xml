@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KmlFile</name>
+    <Style id="green"><IconStyle><Icon>
+<href>http://labs.google.com/ridefinder/images/mm_20_green.png</href>
+</Icon></IconStyle>
+ <BalloonStyle>
+        <text> $[image] </text>
+      </BalloonStyle></Style>
+	<Style id="red"><IconStyle><Icon>
+<href>http://labs.google.com/ridefinder/images/mm_20_red.png</href>
+</Icon></IconStyle>
+ <BalloonStyle>
+        <text> $[image] </text>
+      </BalloonStyle></Style>
+<Placemark>
+	<name>FR000007630</name>
+	<styleUrl>#green</styleUrl>
+	<ExtendedData>
+		<Data name="image">
+			<value><![CDATA[<img width="240" src="https://climap.terraces.hku.hk/png/FR000007630.png" frameborder=0,allowfullscreen></img>]]></value>
+		</Data>
+</ExtendedData>
+<Point>
+		<coordinates>1.38,43.619999999999997,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+	<name>RQC00662934</name>
+	<styleUrl>#green</styleUrl>
+	<ExtendedData>
+		<Data name="image">
+			<value><![CDATA[<img width="240" src="https://climap.terraces.hku.hk/png/RQC00662934.png" frameborder=0,allowfullscreen></img>]]></value>
+		</Data>
+</ExtendedData>
+<Point>
+		<coordinates>-66.359200000000001,18.326699999999999,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+	<name>CA003062244</name>
+	<styleUrl>#green</styleUrl>
+	<ExtendedData>
+		<Data name="image">
+			<value><![CDATA[<img width="240" src="https://climap.terraces.hku.hk/png/CA003062244.png" frameborder=0,allowfullscreen></img>]]></value>
+		</Data>
+</ExtendedData>
+<Point>
+		<coordinates>-116.469999999999999,53.579999999999998,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+	<name>CA003076071</name>
+	<styleUrl>#green</styleUrl>
+	<ExtendedData>
+		<Data name="image">
+			<value><![CDATA[<img width="240" src="https://climap.terraces.hku.hk/png/CA003076071.png" frameborder=0,allowfullscreen></img>]]></value>
+		</Data>
+</ExtendedData>
+<Point>
+		<coordinates>-118.829999999999998,55.780000000000001,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+	<name>CA004021851</name>
+	<styleUrl>#green</styleUrl>
+	<ExtendedData>
+		<Data name="image">
+			<value><![CDATA[<img width="240" src="https://climap.terraces.hku.hk/png/CA004021851.png" frameborder=0,allowfullscreen></img>]]></value>
+		</Data>
+</ExtendedData>
+<Point>
+		<coordinates>-105.879999999999995,50.18,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+	<name>CA004021996</name>
+	<styleUrl>#green</styleUrl>
+	<ExtendedData>
+		<Data name="image">
+			<value><![CDATA[<img width="240" src="https://climap.terraces.hku.hk/png/CA004021996.png" frameborder=0,allowfullscreen></img>]]></value>
+		</Data>
+</ExtendedData>
+<Point>
+		<coordinates>-109.469999999999999,49.670000000000002,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+	<name>CA004022328</name>
+	<styleUrl>#green</styleUrl>
+	<ExtendedData>
+		<Data name="image">
+			<value><![CDATA[<img width="240" src="https://climap.terraces.hku.hk/png/CA004022328.png" frameborder=0,allowfullscreen></img>]]></value>
+		</Data>
+</ExtendedData>
+<Point>
+		<coordinates>-106.180000000000007,50.280000000000001,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+	<name>CA004051636</name>
+	<styleUrl>#green</styleUrl>
+	<ExtendedData>
+		<Data name="image">
+			<value><![CDATA[<img width="240" src="https://climap.terraces.hku.hk/png/CA004051636.png" frameborder=0,allowfullscreen></img>]]></value>
+		</Data>
+</ExtendedData>
+<Point>
+		<coordinates>-105.769999999999996,51.93,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+	<name>CA004052210</name>
+	<styleUrl>#green</styleUrl>
+	<ExtendedData>
+		<Data name="image">
+			<value><![CDATA[<img width="240" src="https://climap.terraces.hku.hk/png/CA004052210.png" frameborder=0,allowfullscreen></img>]]></value>
+		</Data>
+</ExtendedData>
+<Point>
+		<coordinates>-107.329999999999998,51.32,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+	<name>CA005020870</name>
+	<styleUrl>#green</styleUrl>
+	<ExtendedData>
+		<Data name="image">
+			<value><![CDATA[<img width="240" src="https://climap.terraces.hku.hk/png/CA005020870.png" frameborder=0,allowfullscreen></img>]]></value>
+		</Data>
+</ExtendedData>
+<Point>
+		<coordinates>-98.019999999999996,49.719999999999999,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+	<name>CA005020882</name>
+	<styleUrl>#green</styleUrl>
+	<ExtendedData>
+		<Data name="image">
+			<value><![CDATA[<img width="240" src="https://climap.terraces.hku.hk/png/CA005020882.png" frameborder=0,allowfullscreen></img>]]></value>
+		</Data>
+</ExtendedData>
+<Point>
+		<coordinates>-97.239999999999995,49,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+	<name>CA005021160</name>
+	<styleUrl>#green</styleUrl>
+	<ExtendedData>
+		<Data name="image">
+			<value><![CDATA[<img width="240" src="https://climap.terraces.hku.hk/png/CA005021160.png" frameborder=0,allowfullscreen></img>]]></value>
+		</Data>
+</ExtendedData>
+<Point>
+		<coordinates>-98.170000000000002,49.5,0</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
